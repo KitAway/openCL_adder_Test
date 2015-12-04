@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define CL_USE_DEPRECATED_OPENCL_1_2_APIS
 #include <CL/opencl.h>
 
 #include "err_code.h"
